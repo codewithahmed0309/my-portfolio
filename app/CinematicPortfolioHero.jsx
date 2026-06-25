@@ -6,23 +6,50 @@ const TAGS = ["Next.js", "React", "Three.js", "TypeScript", "Node.js", "MongoDB"
 
 const PROJECTS = [
   {
+    title: "RESUMECRAFT AI",
+    description:
+      "ATS-friendly resume builder that enables users to create a professional, well-structured resume in minutes with no signup required and instant PDF export.",
+    url: "https://codewithahmed0309.github.io/ResumeCraft/",
+    tech: ["React", "Node.js", "Express.js", "JavaScript"],
+    color: "rgba(90,160,255,0.35)",
+  },
+  {
     title: "IQRA E BOOK STORE",
-    description: "Online digital bookstore platform for browsing, discovering and reading books — with a clean, reader-first UI.",
-    url: "https://codewithahmed0309.github.io/",
+    description:
+      "Online digital bookstore platform for browsing, discovering and reading books — with a clean, reader-first UI.",
+    url: "https://codewithahmed0309.github.io/IQRA-E-BOOK-STORE/",
     tech: ["HTML", "CSS", "JS"],
     color: "rgba(255,140,60,0.35)",
   },
   {
+    title: "WEBBOOST",
+    description:
+      "Smart business growth platform that estimates website development costs and analyzes potential business growth, revenue, and ROI by comparing business performance with and without a website.",
+    url: "https://codewithahmed0309.github.io/webpagedemo/",
+    tech: ["React", "Node.js", "Express.js", "Supabase"],
+    color: "rgba(0,200,150,0.35)",
+  },
+  {
+    title: "JAVEED WORKS",
+    description:
+      "Premium granite and tiles business website showcasing luxury stone solutions, completed projects, services, and over 20 years of craftsmanship with a modern, premium design.",
+    url: "https://codewithahmed0309.github.io/JAVEED-WORKS/",
+    tech: ["React", "CSS", "JavaScript"],
+    color: "rgba(160,120,80,0.35)",
+  },
+  {
     title: "SANEZ BEAUTY",
-    description: "Elegant beauty and cosmetics brand website showcasing products with a luxury aesthetic and smooth interactions.",
+    description:
+      "Elegant beauty and cosmetics brand website showcasing products with a luxury aesthetic and smooth interactions.",
     url: "https://sanezbeauty.github.io/",
     tech: ["HTML", "CSS", "JS"],
     color: "rgba(70,120,255,0.35)",
   },
   {
     title: "PORTFOLIO V1",
-    description: "First iteration of the personal developer portfolio — exploring cinematic design language and immersive animation.",
-    url: "#",
+    description:
+      "First iteration of the personal developer portfolio — exploring cinematic design language and immersive animation.",
+    url: "https://my-portfolio-jahash.vercel.app/",
     tech: ["React", "CSS", "Canvas"],
     color: "rgba(180,80,255,0.25)",
   },
