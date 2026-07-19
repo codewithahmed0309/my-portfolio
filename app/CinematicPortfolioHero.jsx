@@ -6,6 +6,14 @@ const TAGS = ["Next.js", "React", "Three.js", "TypeScript", "Node.js", "MongoDB"
 
 const PROJECTS = [
   {
+    title: "MUSIFY",
+    description:
+      "Private music streaming platform with secure authentication, curated playlists, powerful search, favorites, and an admin dashboard for managing songs, albums, artists, and users. Designed with a modern Spotify-inspired interface.",
+    url: "https://musify-by-ahmed.vercel.app/login",
+    tech: ["React", "TypeScript", "Node.js", "Express.js", "Supabase"],
+    color: "rgba(30,215,96,0.35)",
+  },
+  {
     title: "RESUMECRAFT AI",
     description:
       "ATS-friendly resume builder that enables users to create a professional, well-structured resume in minutes with no signup required and instant PDF export.",
@@ -54,7 +62,6 @@ const PROJECTS = [
     color: "rgba(180,80,255,0.25)",
   },
 ];
-
 const STATS = [
   { label: "Projects", value: "10+" },
   { label: "Years Exp.", value: "1+" },
